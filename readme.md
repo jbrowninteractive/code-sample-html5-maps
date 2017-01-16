@@ -9,7 +9,7 @@ Equity One asked me to convert their flash interactive property maps to an Html5
 
 ## Role ##
 
-Complete Code Base
+Lead Developer
 
 ## Images ##
 
